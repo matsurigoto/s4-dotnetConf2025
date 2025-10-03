@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="dotnetConf2025/Client/dotnetConf2025.Client.csproj" />
+  <Project Path="dotnetConf2025/Server/dotnetConf2025.Server.csproj" />
+  <Project Path="dotnetConf2025/Shared/dotnetConf2025.Shared.csproj" />
+</Solution>
