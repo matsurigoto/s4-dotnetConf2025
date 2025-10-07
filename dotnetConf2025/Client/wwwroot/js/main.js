@@ -14,23 +14,9 @@ function countDown() {
     /*------------------
         CountDown
     --------------------*/
-    // For demo preview
-    var today = new Date();
-    var dd = String(today.getDate()).padStart(2, '0');
-    var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
-    var yyyy = today.getFullYear();
+    var eventDate = new Date("2025-11-29T09:00:00+08:00");
 
-    if (mm == 12) {
-        mm = '01';
-        yyyy = yyyy + 1;
-    } else {
-        mm = parseInt(mm) + 1;
-        mm = String(mm).padStart(2, '0');
-    }
-    // Use this for real timer date
-    var timerdate = "2025/11/29";
-
-    $("#countdown").countdown(timerdate, function (event) {
+    $("#countdown").countdown(eventDate, function (event) {
         $(this).html(event.strftime("<div class='cd-item'><span>%D</span> <p>Days</p> </div>" + "<div class='cd-item'><span>%H</span> <p>Hrs</p> </div>" + "<div class='cd-item'><span>%M</span> <p>Mins</p> </div>" + "<div class='cd-item'><span>%S</span> <p>Secs</p> </div>"));
     });
 }
