@@ -308,7 +308,7 @@ namespace dotnetConf2025.Shared.Services
                    Track = "",
                    SessionStart = new DateTime(2025, 11, 29, 0, 0, 0),
                    SessionEnd = new DateTime(2025, 11, 29, 0, 0, 0),
-                   IsShow = false,
+                   IsShow = true,
                    Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
@@ -346,7 +346,7 @@ namespace dotnetConf2025.Shared.Services
                    Track = "",
                    SessionStart = new DateTime(2025, 11, 29, 0, 0, 0),
                    SessionEnd = new DateTime(2025, 11, 29, 0, 0, 0),
-                   IsShow = false,
+                   IsShow = true,
                    Tags = new string[]{ "CM", "HackMD" },
                 },
                 // new SpeakerModel {
