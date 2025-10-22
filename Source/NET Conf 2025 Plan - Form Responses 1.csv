@@ -1,0 +1,87 @@
+Timestamp,您的姓名 (顯示於官網),演講主題,演講內容 (45分鐘),講師簡介,講師形象照,議程期望安排時間?,是否出席 11/29 (六) 晚上慶功宴?,如會前往參與慶功宴，請填寫您預計出席的人數,本次活動會提供專業錄影，是否同意學員回放?,對於本次活動，有任何想要建議或詢問的嗎?
+10/8/2025 22:30:35,李智樺,AI時代工程師的軟技能,在 AI 快速滲透開發流程的今天，工程師的價值不應再侷限於「寫多少程式」，而是要提升到以顧問式思維來解題。本場演講以「AI時代的軟技能」為題，結合教育學者提出的心智框架，探討工程師在新時代所需的四大能力：認知、社會、自我與實踐。我將分享自己在顧問工作中常用的解題流程:「問題 → 痛點 → AI加速／敏捷落地 → 驗證 → 擴散」，示範如何讓 AI 融入敏捷小迭代，成為團隊的推進器。透過實際案例與方法，協助大家在 AI 時代找到持續成長的定位。,"具有超過40年的工程師經歷，擅長敏捷開發，著作有 : 
+   精實開發與看板方法、Windows Azure雲端開發、WF
+   工作流程引擎程式設計、微軟 VSTS 開發實戰等書。
+為專業的軟體開發顧問、Scrum及看板課程教學的講師。近年來；致力於推廣「開發者體驗」，專注於協助開發團隊與研發工程師的自我成長及敏捷開發實踐。曾擔任過多家資訊公司的研發部經理。現任集英信誠Mentor Trust 公司的敏捷顧問。為經常往返於二岸的精實佈道師。",https://drive.google.com/open?id=1YWI3ebGdfL0YhgYnNxsb9QtrVcMYTGMo,11/29 (六) 上午,我會參加,1 人,是,
+10/8/2025 23:12:24,鮑承佑 (老鮑伯),"地端AIAgent+AutoGen, Token Intelligence無極限",介紹多種在地端跑 LLM 模型的方法和使用 AutoGen for .NET 以 C# 打造自己的地端AI小精靈,"本人於 2007 年底投身資訊業，從原本寫 Java，2009 年開始接觸 WPF、Silverlight 的 C# 桌面應用程式開始投入 .NET 開發，之後於資拓宏宇擔任軟體專案工程師，於 2014 年投入遊戲業在台灣卡普空擔任開發組組長，2018 到 2023 上半在 XR 領域相關新創擔任 CTO。
+
+Unity、Xamarin/MAUI、ASP.NET Core、Blazor、Azure SignalR 等前後端與 Azure 雲端開發技術都略懂略懂，但抓 bug比較在行。",https://drive.google.com/open?id=1pUBWnp5-iCnj9_cBWOUN0oiH5m2mehct,"11/29 (六) 上午, 11/29 (六) 下午",我會參加,1,是,主辦辛苦了！🫡
+10/10/2025 13:26:56,demo fan,地表最強 IDE Visual Studio 2026 來了！,Visual Studio 的定位、Visual Studio 在 AI 世界如何生存、Visual Studio 2026 的新功能介紹,微軟最有價值專家（MVP）連任 18 屆，長期投入 .NET 技術推廣與 Web 開發教育，熱衷用有趣的方式講技術。目前在 SkillTree 程式教育品牌中教人寫程式，也在 twMVC 社群裡陪大家一起成長、不孤單。,https://drive.google.com/open?id=1TK56f8j0MuEKzYXx9TFurb8yvX22-vKs,11/29 (六) 下午,我會參加,1,是,
+10/10/2025 14:55:20,JimmyLiao,Azure AI Foundry 上的企業級 Agent 開發實踐：運用 Microsoft Agent Framework 與 Codex CLI 打造高效能多代理協作系統,"本實踐將圍繞以下三個核心組件進行深入探討與實戰演示：
+
+Microsoft Agent Framework： 我們將利用其強大的 多代理協調 (Multi-Agent Orchestration) 能力，結合類型安全（Type Safety）和靈活的工作流程（Workflows），構建複雜的協作邏輯。
+
+Codex CLI： 演示如何利用這個命令行工具，將 Agent 能力直接引入 DevOps 和編程自動化 流程中，實現如自動程式碼重構、測試生成或 Pull Request 創建等高效能的 Agent 任務執行。
+
+Azure AI Foundry： 作為整個系統的 底層平台，我們將利用其提供的模型部署、資源管理、監控與治理（Observability and Governance）功能，確保整個多代理協作系統在企業環境中安全、穩定、高效地運行。
+
+透過本實踐，參與者將能獲得一套完整的 「Agent 開發、部署與自動化」 解決方案藍圖，為企業的智慧化升級奠定堅實的技術基礎。","Jimmy Liao 先後就職於 Appier/Microsoft/InfuseAI/IBM 。專業技能橫跨應用程式、手機應用、後端開發、廣告投放、機器學習專案開發，近期致力於 Generative AI 以及相關應用推廣，協助客戶技術落實及技術諮詢。目前為 Google 社群開發專家 (AI GDE) 與微軟社群開發專家 (AI MVP) 。
+
+日常生活就是跑步，曾經以跑步為通勤工具之一 (單程 20+ km)。
+
+As the Google AI GDE and Microsoft AI MVP and with 20+ years experience as technical lead in large enterprise and startup. Jimmy Liao act as GenAI Solution Architect now. He focus on solution architecture design, PoC, Production with modern solutions. Also for Generative AI/AI Application landing, education, and communities.",https://drive.google.com/open?id=1zpu4g7klnZ-4tt9TST_IynzlbFxHdUnZ,11/29 (六) 下午,我會參加,2,是,
+10/10/2025 15:48:49,陳葵懋 - Ian,震撼！SK：我還沒退場啊！Agent Framework：對不起，我來了,"剛把 Semantic Kernel 的概念摸熟、AI Agent 跑起來，結果微軟突然說：「抱歉，Agent Framework 上線囉～」
+每次技術一更新，開發者的心聲大概就是：「我連 Hello World 都還沒寫完啊！」
+這場議程不是要你立刻重寫所有專案，也不是 Agent Framework 的官方業配，而是想帶大家一起看看這波框架交接到底在演哪齣。
+同時，我也會搶先示範如何用 Agent Framework 開發 AI Agent，看看跟 SK 有哪些不一樣的地方。
+面對這場「框架速食時代」的技術換代，我們就邊學邊吐槽吧（啊…可以嗎 ??）。","目前任職於一等一科技，同時也是微軟 AI 人工智慧最有價值專家（MVP）與微軟認證講師（MCT）。專注於 .NET、Azure 、容器化、雲/地端生成式AI應用解決方案，曾受邀在 Microsoft TechDay、DevDays、.NET Conf Taiwan 、MWC、MOPCON 等大型技術研討會擔任講師，分享業界實戰心法。近年聚焦生成式 AI 、RAG與 AI Agent 的研究，具有實務上的實踐以及培訓經驗。
+出版多本生成式AI共同著作：
+• AI Agent 奇幻旅程：MCP 通往異世界金鑰（含最新 OpenAI GPT-5 範例）
+• Python原力爆擊：OpenAI / Gemini / AWS / Ollama生成式AI應用新手指南
+• LangChain 奇幻旅程：OpenAI x Gemini x 多模態應用開發指南
+• 極速 ChatGPT 開發者兵器指南：跨界整合 Prompt Flow 、LangChain 與 Semantic Kernel 框架
+• 駕馭 ChatGPT 4: 探索 Azure OpenAI 與 Cognitive Service for Language 開發實踐 （使用 .NET 與 Node.js）",https://drive.google.com/open?id=10c3yCdCEs3WfyCiBjbTQlZlVormQu7JE,11/29 (六) 下午,我會參加,1,是,
+10/10/2025 15:50:51,Bill Chung,C# 14 新功能,每年 C# 改版都有新驚喜，今年又帶來甚麼方便好用的功能？,Microsoft MVP，熱愛寫程式與講故事,https://drive.google.com/open?id=1D3pIPhO36NK-NYix_PzaGjAmzgFoc-Bc,"11/29 (六) 上午, 11/29 (六) 下午",我會參加,1,是,
+10/10/2025 18:06:17,Ryan Chung,MS Ignite 2025舊金山現場直擊 - 最新趨勢大剖析,微軟在每年的十一月份，會舉辦全球Ignite大會，今年在舊金山舉辦。究竟在年底的活動中，微軟還能端出什麼樣的牛肉？AI Agent 與 MCP還有哪些應用的可能性？且聽來自Ryan的現場直擊！,Ryan Chung，行動開發學院 MobileDev.TW創辦人，曾獲微軟人工智能大賽特別獎，目前為製造業上櫃公司AI顧問、微軟MVP Summit Pre-Day / Reactor / DevDaysAsia / .NET Conf Taiwan講師、中央大學AI學程兼任講師、元智大學資工系兼任助理教授級專業技術人員。專長於雲端生成式AI應用整合開發，使用 Azure OpenAI / Azure AI / Google Gemini AI / Amazon Bedrock AI。2022年起，獲選為微軟AI MVP 人工智慧最有價值專家。,https://drive.google.com/open?id=1Z-lK6PTa9OSONCMOnvdiXsC0odQosIwX,11/29 (六) 下午,我會參加,1,是,謝謝！
+10/10/2025 18:15:21,Marcus Tung,未定,未定,現任微軟最有價值專家（Developer Technologies）和 DevOps Taiwan 技術社群志工，樂於研究與分享 後端技術，將學習與實踐的心得記錄在個人部落格 m@rcus 學習筆記上，並於粉絲團不定期分享技術開發與 Observability 相關新知。,https://drive.google.com/open?id=1HJROyfqBlt-orlNbGdP5fSpztaE63n7e,11/29 (六) 上午,我會參加,1,否,
+10/10/2025 23:08:06,蔡文龍,和小歐一起共45分待定,和小歐一起共45分待定,連續17年微軟最有價值專家(AI + Developer 雙領域 MVP)、專業電腦圖書作家，著有超過140本以上電腦書籍，現職於僑光科技大學多媒體與遊戲設計系副教授，專長雲端應用程式、人工智慧軟體服務、遊戲設計，同時受聘各公民營企業、內訓課程開發規劃。,https://drive.google.com/open?id=1ixJWBuAsLZAE3EFePorB-ygoJ5HD1En4,11/29 (六) 上午,我會參加,1,是,早一點講完，我想要聽其他大大的課
+10/11/2025 13:20:57,Will 保哥,ASP.NET Core 10.0 全新功能探索,"全新的 .NET 10.0 帶來了持續躍進的效能優化，並推出多項突破性創新功能，為開發者提供更強大且高效的開發工具。本次 ASP.NET Core 10.0 不僅加強了對現代雲端原生應用的全面支援，更整合最新的 C# 14 語言特性，賦予開發者更靈活且簡潔的程式設計體驗。於此版本中，我們將見證全新的 OpenAPI 3.1 標準支援、Minimal API 的進階驗證機制，以及靜態資產與響應串流等多方面的效能強化。
+
+這場演講將引領大家深入探索 ASP.NET Core 10.0 的全新功能，揭示它如何革新開發流程並提升系統效能。準備好迎接技術前沿，與我們一同揭開這激動人心的 ASP.NET Core 新篇章吧！",現任「多奇數位創意有限公司」技術總監。2024 年榮獲 GenAI 方向的 Google Developer Expert (GDE) 開發專家。2019 獲選微軟技術社群區域總監 (Microsoft Regional Director)。2018 年榮獲 Angular 方向的 Google Developer Expert (GDE) 開發專家。連續 18 度當選微軟最有價值專家(MVP)。熟悉 Generative AI、Angular、JavaScript、.NET、C#、Java、Go、Docker、Kubernetes 相關技術。擅長 DevOps 與組織文化建立、軟體團隊建構與管理。熱愛分享知識。,https://drive.google.com/open?id=16E7EpE30R_L6vNVyrDWafaSnwmbLk4yd,11/29 (六) 下午,我會參加,1,是,N/A
+10/12/2025 23:02:20,Edward Kuo,在企業實施混合人工智慧解決方案,隨著AI世代的來臨，企業正面對日益多元且複雜的人工智慧需求。混合人工智慧解決方案，將雲端與地端資源有效整合，不僅提升了企業運作的靈活性，也大幅強化了資料安全。借助Azure AI Foundry和Foundry Local，我們能在雲端享有強大的AI運算能力，同時在需要時於地端確保資料隱私與即時處理，滿足各種場景的需求。Azure AI Foundry為企業提供全面且高效的AI開發平台，協助訓練與部署AI模型；而Foundry Local則能在本地安全環境中運行AI解決方案，切合合規及資安的要求。這種混合架構讓我們能夠打造高效、可控且高度整合的人工智慧生態系,現任美商科技製造公司資訊處資深經理，兼具 Microsoft Regional Director 與 Microsoft Azure MVP 身分，長期投身技術社群與產業實務。擅長雲端架構設計、工業 4.0、供應鏈系統、AI/ML 與 DevOps 解決方案，善於以多元觀點串聯業界需求與技術落地。熱衷於知識分享，活躍於各大技術研討會、社群論壇及企業訓練，亦為多所大學客座講師。致力推動企業數位轉型，持續促進技術交流與社群成長，協助更多團隊實現創新價值。,https://drive.google.com/open?id=1NovFKBwnA0HwgfX75CYrBrx_pbsMimz5,"11/29 (六) 上午, 11/29 (六) 下午, 只要不是第一場就好",我會參加,1,否,
+10/15/2025 12:48:53,尹相志,關於語境工程（context engineering)的奇淫巧技,在這session中將會透過案例來展示語境工程的技巧實現以及如何整合為組合技,DataDecision.ai數據科學家，大數據行業經歷今年第27年，於2002年成立台灣第一家大數據顧問公司asiaMiner，曾經協助台灣大型電信公司（中華電信、遠傳電信、台灣大哥大）、銀行（中國信託、台新、台灣銀行、元大、新光、萬泰...等)、零售業（特力屋、7-11）...等企業導入數據科學相關產業應用。也是臺灣微軟在數據科學領域的特約講師，曾獲選2006~2017年微軟最有價值專家(MVP)，於2015~2016年曾兼任上海華院數據（中國第一家大數據顧問公司）之首席數據科學家，於任內發起中國首次國際人工智能競賽「BOT (Brain of things) Shanghai 2016」，同時也擔任2016年與2017年的賽題設計。現任光寶科技、啟雲科技之企業顧問,https://drive.google.com/open?id=1uqmvS0IOpwIp5vMcKBWVDRtUN0I3YW2_,11/29 (六) 上午,我會參加,1,是,
+10/17/2025 11:01:08,Ko Ko,使用 Azure AI 與 LangGraph 來開發 AI Agent,"
+LangChain 是全球最受歡迎 LLM 應用開源框架，其強大的能力和完整的生態系相當受到開發者的歡迎。本演講將帶領您探索如何運用 LangChain 生態系裡專門做 AI Agent 的 LangGraph，結合 Azure AI 的強大功能，進而打造出多功能的 AI Agent。內容將包含 Azure AI 的觀念說明，並且實際 demo 如何整合到 LangChain 的生態系中。
+",Ko Ko 連續當選六年微軟 AI  （Microsoft AI MVP），曾任職於財星 500 強、美國矽谷科技新創、澳洲雪梨科技新創、美國上市公司等企業，擅長於 AI 技術與軟體開發。他也是大型技術年會的知名講者，包含了. NET Conference、PyCon APAC、PyCon HK、DevDays Asia 等等的國際大型年會，累計已超過萬名聽眾。經營粉專「大魔術熊貓工程師」。目前已經出版五本生成式 AI 應用的書籍。,https://drive.google.com/open?id=1h4DaqOtTo1cd1B9sByuxmX5wgFS4ZXBz,11/29 (六) 下午,我會參加,1,是,讚啦！！
+10/18/2025 1:21:31,蕭晊莛,Chat Bot 的隱藏知識庫：RAG 以外的第二選擇,當我們談到企業內部的 Chat Bot，RAG 往往是第一個被想到的解法。但在真實世界中，企業的 Domain 知識並不只存在於文件或知識庫裡，更多時候，它深埋在程式碼邏輯中：商品的過濾條件、驗證規則、業務流程 API……這些才是真正決定 Bot 是否能給出正確答案的關鍵。,"目前任職於新加坡商鈦坦科技
+擔任 Technical Manager 一職
+目前專注於探索 AI 應用的可能性",https://drive.google.com/open?id=1mAEwgYrPX1OjW8TwTTTD_fQaQEuLjlfo,11/29 (六) 下午,我會參加,,是,
+10/18/2025 11:34:53,沈宏洲 (Kyle) / 陳岳澤 (Derek),數據驅動：研發效能與產品價值共舞,"在產品開發與研發管理的世界裡，數字固然重要，但真正的關鍵在於這些數據背後代表的「價值」。本場演講將帶您從多角度重新理解效能與成果的關係——不再只是量化產出 (Output)，而是看見帶來影響的成果 (Outcome)。
+
+講者將以跨足新創與大型企業的實務經驗，分享如何讓研發效能與產品指標緊密結合，打造以資料為基礎的決策文化。我們將探討如何拆解團隊生產力成為可衡量要素、導出代表團隊健康度的「魔術數字」，並透過多維度分析框架，讓數據成為持續改善與創造價值的工具。","Kyle
+現任微軟最有價值專家，CSM/CSPO，任職過軟體、教育、物流產業，於新創打滾多年，STUDY4 技術社群核心成員，定期舉辦各種領域的技術研討會。
+
+曾於許多大型研討會擔任講者，包含 Hello World Dev Conference、Agile Summit、Microsoft DevDays Asia、.NET Conf、Global Azure Bootcamp、MOPCON
+
+Derek
+擁有敏捷教練、產品經理、軟體工程師的多元背景，擅長從多方視角，協助團隊提升產品價值與研發效能。曾參與多個跨職能團隊，成功推動 Scrum、Kanban 與大規模敏捷框架落地。熱衷於產品的探索與交付，並樂於陪伴團隊進行敏捷轉型，協助組織打造更具韌性的產品團隊。",https://drive.google.com/open?id=1BbvCwKMgF-Sm9KFTWqTC5U7GQ3ORnzwK,11/29 (六) 下午,我會參加,TBD,是,"1. 可以安排下午倒數場次，我跟 Derek 是同一場，他的頭貼會另外上傳
+2. 可回放，但公開的話不要"
+10/18/2025 11:35:34,陳岳澤 (Derek),同Kyle那列資料,同Kyle那列資料,同Kyle那列資料,https://drive.google.com/open?id=15Wmt0O5X0JtJxwjGxjqH6GqSyxez7_NW,11/29 (六) 下午,我會參加,TBD,是,同Kyle那列資料
+10/18/2025 15:33:51,Andrew Wu,（還在想）,（還在想）,"
+## 講師介紹：Andrew Wu
+
+現任職於大型軟體開發團隊的架構師，負責核心產品的服務化，與內部產品開發團隊的架構改善等任務。在過去的 25 年工作經驗，主要都專注於 .NET 開發 SaaS , B2B2C 的雲端服務。我專長的領域包括: 軟體工程，物件導向設計，分散式系統架構設計，平行處理，API 設計 及 微服務導向架構設計 (microservices) 等。而近年 AI 快速崛起, 我也投入了相關研究。擅長的主題包含: Agent 架構設計, MCP 的設計開發, Context Engineering 等領域。
+
+我樂於分享技術新知與開發的經驗，常在各大研討會或是在社群活動上分享經驗。同時我也有撰寫部落格文章的習慣，希望能累積我的經驗給需要的夥伴們。我深信知識是越分享越精進的，這也是支持我自 2004 至今連續 20 年不間段分享文章的動力來源。
+
+<!--more-->
+
+## 個人經歷:
+
+* 現任 [91APP](https://www.91app.com), 首席架構師 Chief Architect
+* 榮獲 [Microsoft MVP 微軟最有價值專家](https://mvp.microsoft.com/zh-tw/PublicProfile/5002155?fullName=Andrew%20%20Wu) 獎項,2016 ~ 2025
+* 擔任多次 Microsoft Azure Cafe, TechDays, TechEd, DevOpsDays Taiwan, .NET Conf 等大型研討會講者，與相關 Azure PaaS 雲端系列課程與企業內訓講師
+
+
+## 相關連結：  
+
+* 安德魯的部落格 / [Facebook](https://www.facebook.com/andrew.blog.0928)
+* 安德魯的部落格 / [Threads](https://www.threads.net/@andrew.blog.0928)
+* 安德魯的部落格 / [Blog](http://columns.chicken-house.net)
+* [GitHub](https://github.com/andrew0928)
+* [LinkedIn](https://www.linkedin.com/in/andrew0928/)
+
+",https://drive.google.com/open?id=1-HLhoF--6rb_XiVYEVWRi5ayMJfFm73J,11/29 (六) 上午,我會參加,1,是,
+10/18/2025 23:59:39,James Tsai,莫名其妙就跟世界級的 OpenSource 專案攪和了!? ,"當 .NET 開發能跨平台運用後，開發人員要達成 Write once, Run anywhere! 是 ""真的"" 可以被實踐的。由於裝置端的產品程式可能會有各種不同的平台需要面對，能透過開發一套 Code 並完成佈署到各時期所發行不同平台的裝置端上運作，則是開發人員最為引以為傲的事。
+面對裝置端應用 UI 運作需透過疊合不同層面的顯示，讓用戶與使用者在與裝置端互動時都能保有良好的使用體驗，則是產品開發人員追求的極致發展。
+本議程將來聊聊這樣的開發經驗的落實，與其中運用的核心技術並完成跨平台運作的發展。",現任 Microsoft MVP - Developer Technologies (2015~) 與 某 公司資深工程師。從 10 年多前開始接觸 .NET 程式開發後，長期研究行動平台的 App 與 .NET 各類跨平台開發技術。點部落: https://dotblogs.com.tw/jamestsai，有著各式 .NET 開發技術的紀錄、研究與推廣。,https://drive.google.com/open?id=1DK_q3y8BenN5Clyb8L-LeeotNxn3Mf4O,11/29 (六) 下午,我會參加,1,是,暫無
