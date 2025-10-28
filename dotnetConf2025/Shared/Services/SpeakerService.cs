@@ -227,7 +227,7 @@ namespace dotnetConf2025.Shared.Services
                     LinkedinUrl = "",
                     Introduction = "對軟體開發有極大熱誠的阿宅，喜歡研究物件導向分析與設計，對於軟體架構設計有一些實務上的經驗，現職為.NET技術顧問。",
                     Topic = "當 Mermaid 遇上 Visual Studio 2026 會蹦出什麼火花呢？",
-                    TopicOutline = "這是微軟首次將 Mermaid 整合到 Visual Studio 我們知道在以前 Diagram 的繪製對系統設計分析有莫大的助益，即便到了 AI 的時代，也還是如此。 在今天的場次裡面我除了介紹這個新功能外，我也將介紹在 AI 的時代裡的軟體開發與分析設計裡面，我怎麼樣利用 mermaid 來提升開發的生產力。",
+                    TopicOutline = "這是微軟首次將 Mermaid 整合到 Visual Studio。 我們知道在以前 Diagram 的繪製對系統設計分析有莫大的助益，即便到了 AI 的時代，也還是如此。 在今天的場次裡面我除了介紹這個新功能外，我也將介紹在 AI 的時代裡的軟體開發與分析設計裡面，我怎麼樣利用 mermaid 來提升開發的生產力。",
                     Room = "",
                     Track = "",
                     SessionStart = new DateTime(2025, 11, 29, 0, 0, 0),
