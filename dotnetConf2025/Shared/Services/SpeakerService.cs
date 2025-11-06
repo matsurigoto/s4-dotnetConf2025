@@ -225,7 +225,7 @@ namespace dotnetConf2025.Shared.Services
                     FacebookUrl = "https://www.facebook.com/groups/361804473860062/",
                     TwitterUrl = "",
                     LinkedinUrl = "",
-                    Introduction = "對軟體開發有極大熱誠的阿宅，喜歡研究物件導向分析與設計，對於軟體架構設計有一些實務上的經驗，現職為.NET技術顧問。",
+                    Introduction = "#個人簡介<br/>對寫程式以及軟體開發與架構設計有極大熱誠的阿宅，對物件導向分析與設計領域有些研究，執著在商用的軟體開發與特定方法論的實踐可以發揮最大效益、節省最多成本。現職為.NET技術顧問，因為擔任顧問，因此經歷比較廣，包括軟體架構設計規劃、客製化框架開發、分散式系統設計、Redis Cache 快取導入與快取策略規劃等。<br/><br/>## 顧問資歷：<br/>● 產險公司 - Redis Cache 導入與執行顧問、系統架構顧問<br/>● 新竹科學園區 - .NET 6 系統升級顧問、企業框架設計顧問<br/>● 高雄一卡通 - Unit Test 單元測試導入顧問<br/>● 資策會 - IBM 授權教育訓練中心 - UML 課程講師<br/><br/>## 關於我：<br/>部落格 (Gelis 技術隨筆)：<br/>http://gelis-dotnet.blogspot.tw<br/>https://www.dotblogs.com.tw/gelis/<br/><br/>FB 社團 (軟體開發之路)：<br/>https://www.facebook.com/groups/361804473860062/<br/><br/>FB 粉絲團 (Gelis 的程式設計訓練營)：<br/>https://www.facebook.com/gelis.dev.learning/<br/><br/>我講授過的課程 SlideShare：<br/>https://www.slideshare.net/GelisWu<br/><br/>Github：<br/>https://github.com/wugelis",
                     Topic = "當 Mermaid 遇上 Visual Studio 2026 會蹦出什麼火花呢？",
                     TopicOutline = "這是微軟首次將 Mermaid 整合到 Visual Studio。 我們知道在以前 Diagram 的繪製對系統設計分析有莫大的助益，即便到了 AI 的時代，也還是如此。 在今天的場次裡面我除了介紹這個新功能外，我也將介紹在 AI 的時代裡的軟體開發與分析設計裡面，我怎麼樣利用 mermaid 來提升開發的生產力。",
                     Room = "",
