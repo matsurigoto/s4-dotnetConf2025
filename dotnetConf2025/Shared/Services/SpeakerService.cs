@@ -539,7 +539,26 @@ namespace dotnetConf2025.Shared.Services
                     SessionEnd = new DateTime(2025, 11, 29, 0, 0, 0),
                     IsShow = true,
                     Tags = new string[]{ "CM", "HackMD" },
-                }
+                },
+                 new SpeakerModel {
+                    Id = "TimLai",
+                    Name = "Tim Lai",
+                    JobTitle = "",
+                    PictureUrl ="./img/speakers/Tim Lai.jpg",
+                    BlogUrl = "",
+                    FacebookUrl = "",
+                    TwitterUrl = "",
+                    LinkedinUrl = "",
+                    Introduction = "擁有 20 年軟體開發與系統架構設計經驗，熟悉專案管理與敏捷方法論，目前主要協助企業客戶導入 Azure DevOps，並提供專業教育訓練，協助團隊提升敏捷開發與自動化部署的能力。熱衷於推動 AI 技術與現代開發流程的整合，將 GitHub Copilot 等 AI 工具融入 DevOps 實務，讓團隊協作更快速、有效且具有品質。",
+                    Topic = "碼農出擊! GitHub Copilot 帶你飛：打造超效率開發術",
+                    TopicOutline = "GitHub Copilot 是市面上 CP 值最高的開發助手，不僅支援多種 AI 模型，還能靈活自訂 VSCode 裡的 Instructions、Prompt files 和 Chat Modes，讓我們用最快的速度完成高品質程式碼開發。本次演講也會介紹實用的 Copilot CLI，並分享實際案例，帶大家輕鬆提升開發效率，成為你最值得信賴的開發夥伴！。",
+                    Room = "",
+                    Track = "",
+                    SessionStart = new DateTime(2025, 11, 29, 0, 0, 0),
+                    SessionEnd = new DateTime(2025, 11, 29, 0, 0, 0),
+                    IsShow = true,
+                    Tags = new string[]{ "CM", "HackMD" },
+                 }
             };
 
             return speakers;
