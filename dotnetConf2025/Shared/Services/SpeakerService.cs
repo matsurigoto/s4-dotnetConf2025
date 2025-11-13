@@ -465,8 +465,8 @@ namespace dotnetConf2025.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                   Id = "LinZhengxiang",
-                   Name = "林正祥",
+                   Id = "Shanna",
+                   Name = "Shanna",
                    JobTitle = "",
                    PictureUrl ="./img/speakers/shanna.jpg",
                    BlogUrl = "",
