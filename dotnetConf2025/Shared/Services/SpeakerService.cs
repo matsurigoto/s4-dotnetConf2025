@@ -485,7 +485,7 @@ namespace dotnetConf2025.Shared.Services
                 },
                 new SpeakerModel {
                    Id = "LinZhengxiang",
-                   Name = "林正祥",
+                   Name = "ATai",
                    JobTitle = "",
                    PictureUrl ="./img/speakers/ATai.jpg",
                    BlogUrl = "",
