@@ -487,7 +487,7 @@ namespace dotnetConf2025.Shared.Services
                    Id = "LinZhengxiang",
                    Name = "林正祥",
                    JobTitle = "",
-                   PictureUrl ="./img/speakers/林正祥.jpg",
+                   PictureUrl ="./img/speakers/ATai.jpg",
                    BlogUrl = "",
                    FacebookUrl = "",
                    TwitterUrl = "",
